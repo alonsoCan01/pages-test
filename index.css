@@ -1,5 +1,5 @@
 body {
-  background-color: skyblue;
+  background-color: blue;
   margin-left: 20px;
 }
 
@@ -12,5 +12,4 @@ h1 {
 p {
   color: white;
   font-size: 14px;
-  font-weight: lighter;
 }
